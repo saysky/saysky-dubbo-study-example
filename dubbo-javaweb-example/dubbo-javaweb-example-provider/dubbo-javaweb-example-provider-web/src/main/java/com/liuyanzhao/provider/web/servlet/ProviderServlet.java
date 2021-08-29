@@ -1,4 +1,4 @@
-package com.liuyanzhao.servlet;
+package com.liuyanzhao.provider.web.servlet;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

@@ -1,6 +1,6 @@
-package com.liuyanzhao.consumer.impl.service;
+package com.liuyanzhao.provider.impl.service;
 
-import com.liuyanzhao.consumer.impl.dao.RoleDao;
+import com.liuyanzhao.provider.impl.dao.RoleDao;
 import com.liuyanzhao.provider.api.entity.Role;
 import com.liuyanzhao.provider.api.service.RoleService;
 

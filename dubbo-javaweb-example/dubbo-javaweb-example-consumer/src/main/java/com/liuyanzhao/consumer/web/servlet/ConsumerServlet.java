@@ -1,4 +1,4 @@
-package com.liuyanzhao.servlet;
+package com.liuyanzhao.consumer.web.servlet;
 
 import com.alibaba.fastjson.JSON;
 import com.liuyanzhao.provider.api.entity.Role;

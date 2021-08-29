@@ -1,7 +1,7 @@
-package com.liuyanzhao.listener;
+package com.liuyanzhao.provider.web.listener;
 
-import com.liuyanzhao.consumer.impl.service.RoleServiceImpl;
-import com.liuyanzhao.consumer.impl.service.UserServiceImpl;
+import com.liuyanzhao.provider.impl.service.RoleServiceImpl;
+import com.liuyanzhao.provider.impl.service.UserServiceImpl;
 import com.liuyanzhao.provider.api.service.RoleService;
 import com.liuyanzhao.provider.api.service.UserService;
 import org.apache.dubbo.config.ApplicationConfig;

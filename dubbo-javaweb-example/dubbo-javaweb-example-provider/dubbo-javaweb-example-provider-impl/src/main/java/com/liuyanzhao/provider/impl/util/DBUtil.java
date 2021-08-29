@@ -1,4 +1,4 @@
-package com.liuyanzhao.consumer.impl.util;
+package com.liuyanzhao.provider.impl.util;
 
 import java.sql.*;
 

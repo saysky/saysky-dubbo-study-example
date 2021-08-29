@@ -1,6 +1,6 @@
-package com.liuyanzhao.consumer.impl.dao;
+package com.liuyanzhao.provider.impl.dao;
 
-import com.liuyanzhao.consumer.impl.util.DBUtil;
+import com.liuyanzhao.provider.impl.util.DBUtil;
 import com.liuyanzhao.provider.api.entity.User;
 
 import java.sql.ResultSet;

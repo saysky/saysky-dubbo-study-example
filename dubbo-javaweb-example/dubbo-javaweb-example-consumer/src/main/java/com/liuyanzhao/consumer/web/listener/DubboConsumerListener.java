@@ -1,4 +1,4 @@
-package com.liuyanzhao.listener;
+package com.liuyanzhao.consumer.web.listener;
 
 import com.liuyanzhao.provider.api.service.RoleService;
 import com.liuyanzhao.provider.api.service.UserService;
