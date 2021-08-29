@@ -6,9 +6,6 @@ import com.liuyanzhao.provider.api.entity.User;
 import com.liuyanzhao.provider.api.service.RoleService;
 import com.liuyanzhao.provider.api.service.UserService;
 import org.apache.dubbo.config.ReferenceConfig;
-import org.apache.dubbo.config.ReferenceConfigBase;
-import org.apache.dubbo.config.annotation.DubboReference;
-import org.apache.dubbo.config.annotation.Reference;
 import org.apache.dubbo.config.utils.ReferenceConfigCache;
 
 import javax.servlet.ServletException;

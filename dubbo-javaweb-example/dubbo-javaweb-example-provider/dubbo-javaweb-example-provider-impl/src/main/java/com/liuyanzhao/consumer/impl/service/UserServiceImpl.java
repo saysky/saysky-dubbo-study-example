@@ -4,7 +4,6 @@ import com.liuyanzhao.consumer.impl.dao.UserDao;
 import com.liuyanzhao.provider.api.entity.User;
 import com.liuyanzhao.provider.api.service.UserService;
 
-import java.sql.SQLException;
 import java.util.List;
 
 /**

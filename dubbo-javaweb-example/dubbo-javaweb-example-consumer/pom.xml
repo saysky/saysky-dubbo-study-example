@@ -14,18 +14,21 @@
 
 
     <dependencies>
+        <!--        servlet-->
         <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>servlet-api</artifactId>
             <version>3.0-alpha-1</version>
             <scope>provided</scope>
         </dependency>
+        <!--        生产者api-->
         <dependency>
             <groupId>com.liuyanzhao</groupId>
             <artifactId>dubbo-javaweb-example-provider-api</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
 
+        <!--        dubbo和nacos-->
         <dependency>
             <groupId>org.apache.dubbo</groupId>
             <artifactId>dubbo</artifactId>
